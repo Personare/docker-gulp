@@ -8,4 +8,8 @@ WORKDIR /usr/src/web
 
 ENV HOME /usr/src/web
 
-CMD ["node"]
+RUN touch /usr/local/bin/entrypoint.sh
+
+RUN chmod +x /usr/local/bin/entrypoint.sh
+
+ENTRYPOINT ["/usr/local/bin/entrypoint.sh"]
