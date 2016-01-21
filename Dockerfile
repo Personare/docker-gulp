@@ -4,12 +4,6 @@ MAINTAINER Personare
 
 RUN npm install -g gulp@3.9.0
 
-WORKDIR /usr/src/web
+WORKDIR /usr/src/web/build
 
 ENV HOME /usr/src/web
-
-RUN touch /usr/local/bin/entrypoint.sh
-
-RUN chmod +x /usr/local/bin/entrypoint.sh
-
-ENTRYPOINT ["/usr/local/bin/entrypoint.sh"]
