@@ -7,3 +7,5 @@ RUN npm install -g gulp@3.9.0
 WORKDIR /usr/src/web/build
 
 ENV HOME /usr/src/web
+
+CMD ["bash"]
