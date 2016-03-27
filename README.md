@@ -7,9 +7,9 @@
 
 <p align="center">
   <a href="https://www.docker.com/">
-    <img width="25%" src="./documentation/images/docker-swarm.gif?raw=true" />
+    <img width="30%" src="./documentation/images/docker-swarm.gif?raw=true" />
   </a>
   <a href="http://gulpjs.com/">
-    <img width="25%" src="./documentation/images/gulp.png?raw=true" />
+    <img width="20%" src="./documentation/images/gulp.png?raw=true" />
   </a>
 </p>
