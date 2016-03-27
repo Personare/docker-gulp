@@ -4,12 +4,13 @@
 
 > This repository is intended to build a container with `gulp`, where we used to automate some tasks.
 
+== 
 
 <p align="center">
-  <a href="https://www.docker.com/">
-    <img width="30%" src="./documentation/images/docker-swarm.gif?raw=true" />
-  </a>
   <a href="http://gulpjs.com/">
-    <img width="20%" src="./documentation/images/gulp.png?raw=true" />
+    <img width="15%" src="./documentation/images/gulp.png?raw=true" />
+  </a>
+  <a href="https://www.docker.com/">
+    <img width="25%" src="./documentation/images/docker-swarm.gif?raw=true" />
   </a>
 </p>
