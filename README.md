@@ -10,6 +10,6 @@
     <img width="25%" src="./documentation/images/docker-swarm.gif?raw=true" />
   </a>
   <a href="http://gulpjs.com/">
-    <img width="40%" src="./documentation/images/gulp.png?raw=true" />
+    <img width="25%" src="./documentation/images/gulp.png?raw=true" />
   </a>
 </p>
