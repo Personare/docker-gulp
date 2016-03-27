@@ -1,10 +1,7 @@
 [![Build Status](https://travis-ci.org/Personare/docker-gulp.svg?branch=master)](https://travis-ci.org/Personare/docker-gulp)
 
-# Docker Gulp
-
+#Docker Gulp
 > This repository is intended to build a container with `gulp`, where we used to automate some tasks.
-
-== 
 
 <p align="center">
   <a href="http://gulpjs.com/">
