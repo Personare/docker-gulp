@@ -1,6 +1,6 @@
 FROM node:5.4.0
 
-MAINTAINER Personare
+MAINTAINER Personare <devops@personare.com.br>
 
 RUN npm install -g gulp@3.9.0
 
