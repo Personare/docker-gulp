@@ -1,8 +1,8 @@
-FROM node:5.4.0
+FROM mhart/alpine-node:7.10.0
 
 MAINTAINER Personare <devops@personare.com.br>
 
-RUN npm install -g gulp@3.9.0
+RUN npm install -g gulp@3.9.1
 
 WORKDIR /usr/src/web/build
 
