@@ -1,4 +1,4 @@
-FROM mhart/alpine-node:7.10.0
+FROM node:5.4.0
 
 MAINTAINER Personare <devops@personare.com.br>
 
