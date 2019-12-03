@@ -1,4 +1,4 @@
-FROM node:5.4.0
+FROM node:9.11.2
 
 MAINTAINER Personare <devops@personare.com.br>
 
